@@ -31,3 +31,6 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
+<div>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Min-SungJo"/>
+</div>
