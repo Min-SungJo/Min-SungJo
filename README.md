@@ -30,3 +30,4 @@
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Min-SungJo)](https://github.com/Min-SungJo/github-readme-stats)
