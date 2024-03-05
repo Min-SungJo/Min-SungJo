@@ -22,23 +22,25 @@ Blog. https://ride-dev.tistory.com/
 <h4>Back-End</h4>
 
 Java
-Spring Boot, SpringMVC, SpringSecurity
+Spring Boot, SpringMVC, SpringSecurity, Spring Batch, Spring Boot Actuator
 JPA, myBatis, JUnit
 Gradle, Maven
+Grafana
 
 ---
 <h4>DevOps</h4>
 
 Linux
+Docker, docker-compose
 AWS EC2, AWS EB, AWS S3
-GitHubActions
+GitHubActions, Jenkins
 nginx
 
 ---
 
 <h4>Database</h4>
 
-MySQL, MariaDB, AWS RDS, Redis
+MySQL, MariaDB, AWS RDS, Redis, Prometheus
 
 ---
 
