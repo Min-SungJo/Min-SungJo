@@ -22,7 +22,7 @@ Blog. https://ride-dev.tistory.com/
 <h4>Back-End</h4>
 
 Java
-Spring Boot, SpringMVC, SpringSecurity, Spring Batch, Spring Boot Actuator
+Spring Boot, SpringMVC, SpringSecurity, Spring Batch, Spring Boot Actuator,
 JPA, myBatis, JUnit
 Gradle, Maven
 Grafana
