@@ -27,17 +27,17 @@ Blog. https://ride-dev.tistory.com/
 
 Java
 Spring Boot, SpringMVC, SpringSecurity, Spring Batch, Spring Boot Actuator,
-JPA, myBatis, JUnit
-Gradle, Maven
+JPA, myBatis, JUnit,
+Gradle, Maven,
 Grafana
 
 ---
 <h4>DevOps</h4>
 
 Linux
-Docker, docker-compose
-AWS EC2, AWS EB, AWS S3
-GitHubActions, Jenkins
+Docker, docker-compose,
+AWS EC2, AWS EB, AWS S3,
+GitHubActions, Jenkins,
 nginx
 
 ---
@@ -50,8 +50,8 @@ MySQL, MariaDB, AWS RDS, Redis, Prometheus
 
 <h4>Front-End</h4>
 
-HTML5/CSS, JavaScript
-Thymeleaf, React
+HTML5/CSS, JavaScript,
+Thymeleaf, React,
 
 ---
 
